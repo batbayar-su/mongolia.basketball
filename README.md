@@ -1,4 +1,4 @@
-# Monorepo of basket ball project
+# Monorepo of mongolia.basketball project
 
 Доор фолдерууд болон тэдгээрийн тайлбарын жагсаалт байна.
 - docs: Прожекттэй холбоотой техникийн, product, уулзалтууд гэх баримтжуулалтыыд байрлана.
